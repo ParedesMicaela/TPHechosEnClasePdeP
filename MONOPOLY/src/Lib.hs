@@ -44,5 +44,7 @@ cambiarTactica unJugador = Jugador {tactica = "Comprador compulsivo"}
 gritar :: Accion
 gritar unJugador = unJugador {nombre = "AAHH" ++ nombre unJugador } 
 
+------a ver si se agrega este commit
+
 
  
